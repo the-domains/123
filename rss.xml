@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[123]]></title>
+        <description><![CDATA[123]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 22:19:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MEET PIQUE]]></title>
+            <description><![CDATA[<article><h1>MEET PIQUE</h1><p>undefined</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dd6da9e-6267-4dff-a2a9-38577946ba97.jpg"></article>]]></description>
+            <link>undefinedmeet-pique/index.html</link>
+            <guid isPermaLink="false">574f915e-d5a8-441f-95ab-474e7f52cc86</guid>
+            <pubDate>Tue, 29 Mar 2016 22:19:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
